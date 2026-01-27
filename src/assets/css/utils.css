@@ -92,6 +92,9 @@
 .font-semibold {
 	font-weight: var(--font-semibold);
 }
+.font-stretch-normal {
+	font-stretch: normal;
+}
 .text-sm {
 	font-size: var(--text-sm);
 	line-height: calc(1.25 / 0.875);

@@ -2,7 +2,7 @@
 
 [slava.zakharov@mailbox.org](mailto:slava.zakharov@mailbox.org) | [https://github.com/petyapetr](https://github.com/petyapetr) | [slaaava.com](https://slaaava.com) | he/him
 
-I’m a web developer passionate about making geospatial apps for the web. My process is driven by the problem itself, not the technology used to solve it. I strive to build simple and explicit products, where form follows function and complexity matches necessity.
+I’m a web developer, with 5+ years of experience, passionate about making geospatial apps for the web. My process is driven by the problem itself, not the technology used to solve it. I strive to build simple and explicit products, where form follows function and complexity matches necessity.
 
 ## Experience
 
@@ -10,7 +10,7 @@ I’m a web developer passionate about making geospatial apps for the web. My pr
 
 _November 2023 — Present_
 
-In this role I lead cross-team projects integrating geospatial data (satellite, drone data) into web-based platform for analytics, event notifications, and visualization. I architected and developed of the mapping system for a solar plan management software (as a part of an ERP system), incorporating drone imagery exploration, task force management, and IoT live tracking. I designed and build a mapping component (e.g., integrating geospatial exploration and data-driven insights into a water management CRM) to enable intuitive spatial data analysis for end-users.
+In this role I lead cross-team projects integrating geospatial data (satellite, drone data) into web-based platform for analytics, event notifications, and visualization. I architected and developed the mapping system for a solar plan management software (as a part of an ERP system), incorporating drone imagery exploration, task force management, and IoT tracking. I also designed and build a mapping component for a water management CRM. Bringing geospatial exploration and data-driven insights into itm to enable intuitive spatial data analysis for end-users.
 
 
 **Software Developer — Bariant**
@@ -37,7 +37,7 @@ I extended Supabase backend to allows users to leave and read messages alongside
 
 _April 2024 — May 2025_
 
-I provided one-on-one tutoring in web development fundamentals for a high school student, guiding the student to in build their first couple of websites.
+I provided one-on-one tutoring in web development fundamentals for a high school student, guiding them in building their first couple of websites.
 
 **Software Developer — Volunteers Tbilisi**
 
@@ -55,7 +55,7 @@ Urban Planning
 
 ## Skills
 
-Javascript, Typescript, Node.js, CSS, Svelte, Fastify, Express, Hono, Tailwind, ArcGIS API, OpenLayers, Turf.js, MapLibre GL JS, SQL, Postgres, SQLite, PostGIS, GeoServer, Vue, React, D3, Astro, Drizzle, Supabase, CI/CD workflows, Git, Caddy, OpenDroneMap
+Javascript, Typescript, Node.js, HTML, CSS, Svelte, React, Vue, Fastify, Express, Hono, Tailwind, ArcGIS API, OpenLayers, Turf.js, MapLibre GL JS, SQL, Postgres, SQLite, PostGIS, GeoServer, CI/CD workflows, Git, Caddy, OpenDroneMap
 
 ## Certificates
 

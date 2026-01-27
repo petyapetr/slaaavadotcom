@@ -91,3 +91,8 @@ button[data-theme-switch] svg {
 		display: block;
 	}
 }
+
+.header,
+footer {
+	font-stretch: condensed;
+}

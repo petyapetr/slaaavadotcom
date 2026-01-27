@@ -65,7 +65,7 @@ export class SiteBuilder {
 		for (const collection of this.collections.values()) {
 			for (const {ext, content, slug, ...data} of collection.items) {
 				const handler = this.getHandler(ext);
-				this.page(slug, () =>
+				this.page(slug + "/", () =>
 					handler(
 						{content, group: collection.group, ...data, slug},
 						collection.template
