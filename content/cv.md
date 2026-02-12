@@ -10,14 +10,13 @@ I’m a web developer, with 5+ years of experience, passionate about making geos
 
 _November 2023 — Present_
 
-In this role I lead cross-team projects integrating geospatial data (satellite, drone data) into web-based platform for analytics, event notifications, and visualization. I architected and developed the mapping system for a solar plan management software (as a part of an ERP system), incorporating drone imagery exploration, task force management, and IoT tracking. I also designed and build a mapping component for a water management CRM. Bringing geospatial exploration and data-driven insights into itm to enable intuitive spatial data analysis for end-users.
-
+In this role I lead cross-team projects integrating geospatial data (satellite, drone imagery) into web-based platform for analytics, event notifications, and visualization. I architected and developed the mapping system for a solar plan management software (as a part of an ERP system), incorporating drone imagery exploration, task force management, and IoT tracking. I also designed and build a mapping module for a water management CRM. Bringing geospatial exploration and data-driven insights.
 
 **Software Developer — Bariant**
 
 _September 2022 — March 2023_
 
-Implemented new features for the company’s web GIS platform. I worked on creating map editing components in Vue using the ArcGIS SDK. Collaborated with diverse team of specialists (including WWF Russia) to develop an intuitive user interface for a satellite imagery analysis app.
+I worked on creating map editing components for the company’s web GIS platform in Vue using the ArcGIS SDK. Collaborated with diverse team of specialists (including WWF Russia) to develop an intuitive user interface for a satellite imagery analysis app.
 
 **Associate Software Developer — Bariant**
 
@@ -55,7 +54,7 @@ Urban Planning
 
 ## Skills
 
-Javascript, Typescript, Node.js, HTML, CSS, Svelte, React, Vue, Fastify, Express, Hono, Tailwind, ArcGIS API, OpenLayers, Turf.js, MapLibre GL JS, SQL, Postgres, SQLite, PostGIS, GeoServer, CI/CD workflows, Git, Caddy, OpenDroneMap
+Javascript, Typescript, Node.js, HTML, CSS, Svelte, React, Vue, Fastify, Express, Tailwind, ArcGIS API, OpenLayers, Turf.js, MapLibre GL JS, SQL, SQLite, Postgres, PostGIS, GeoServer, CI/CD, Git, Caddy, OpenDroneMap
 
 ## Certificates
 
